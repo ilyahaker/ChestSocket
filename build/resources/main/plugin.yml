@@ -1,0 +1,6 @@
+name: ChestSocket
+version: '1.0-SNAPSHOT'
+main: io.ilyahaker.chestsocket.Chestsocket
+api-version: 1.16
+commands:
+  socket:
